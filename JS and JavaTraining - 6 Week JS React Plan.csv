@@ -1,0 +1,8 @@
+Week,Focus Area,Topics
+1,JavaScript Fundamentals & ES6+,"Variables, Data Types, Functions, Scope, ES6 features, Arrays, Objects, map/filter/reduce"
+2,Advanced JavaScript,"Closures, HOFs, Callbacks, Promises, Async/Await, Fetch API, Local Storage, Session Storage, Cookies"
+3,DOM & Modern JS,"DOM Manipulation, Events, Event Delegation, Debouncing, Throttling, Clean Code"
+4,React Fundamentals,"JSX, Components, Props, State, Event Handling, Lists & Keys"
+5,React Hooks & Routing,"useState, useEffect, useRef, useMemo, useCallback, Custom Hooks,Forms, React Router"
+6,Advanced React,"Context API, Error Page Handling, Redux Toolkit,  Redux,axios, Javascript fetch, Generator functions and their working principles"
+,React Optimization,"React Lazy, Suspense, Performance"
